@@ -11,8 +11,9 @@ This project is a simple web application built using the Flask framework in Pyth
 
 ## Project Structure
 
-your_project/app.py
-your_project/templates/index.html
+your_project/app.py.
+
+your_project/templates/index.html.
 
 
 - **app.py**: The main Python file that sets up the Flask application, defines routes, handles user input, processes data, and renders HTML templates.
